@@ -1,5 +1,5 @@
-let greeting = 'Hi, I’m @userDafy'
-let greeting2 = 'I am just starting my adventure'
+let greeting = 'Hi, I’m @userDafy';
+let greeting2 = 'I am just starting my adventure';
 console.log(`${greeting} and ${greeting2}`);
 
 
